@@ -1,0 +1,26 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "Un script qui télécharge toutes les ressources contenues sur les web sites pour les sauvegarder localement.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhal-ferjani/blackhole.git"
+  },
+  "keywords": [
+    "blackhole",
+    "download"
+  ],
+  "author": "nidhal ferjani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidhal-ferjani/blackhole/issues"
+  },
+  "homepage": "https://github.com/nidhal-ferjani/blackhole#readme"
+}
